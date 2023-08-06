@@ -1,0 +1,23 @@
+BranchBank is successfully added.
+CentralBank is successfully added.
+CentralBank is successfully added.
+StudentLoan is successfully added.
+MortgageLoan is successfully added.
+MortgageLoan is successfully added.
+StudentLoan successfully added to DSKBank.
+Loan of type StudentLoan is missing.
+MortgageLoan successfully added to DSKBank.
+MortgageLoan successfully added to Fibank.
+Student successfully added to DSKBank.
+Student successfully added to DSKBank.
+Adult successfully added to Fibank.
+The funds of bank DSKBank are 59762.60.
+Name: DSKBank, Type: BranchBank
+Clients: Sarah, Tom
+Loans: 2, Sum of Rates: 4
+Name: Unicredit, Type: CentralBank
+Clients: none
+Loans: 0, Sum of Rates: 0
+Name: Fibank, Type: CentralBank
+Clients: Peter
+Loans: 1, Sum of Rates: 3
