@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/aa9wAhV.png" alt="Certificate"/>
+<img src="[https://i.imgur.com/aa9wAhV.png](https://softuni.bg/certificates/certificates/converttoimage/181050?code=6858d83a)" alt="Certificate"/>
 
 ### 📚 C# OOP - June 2023
 
@@ -23,4 +23,4 @@ You can explore the course materials, code examples, and assignments in the repo
 
 ### Certificate
 
-![Certificate](https://i.imgur.com/aa9wAhV.png)
+![Certificate]([https://i.imgur.com/aa9wAhV.png](https://i.imgur.com/RdVrT6T.png)https://i.imgur.com/RdVrT6T.png)
