@@ -1,19 +1,19 @@
-<img src="[https://i.imgur.com/aa9wAhV.png](https://softuni.bg/certificates/certificates/converttoimage/181050?code=6858d83a)" alt="Certificate"/>
+<img src="https://i.imgur.com/DtlsE1I.png" alt="Certificate"/>
 
 ### 📚 C# OOP - June 2023
 
-Welcome to the C# OOP - June 2023 course repository! This course will teach participants the principles of Object-Oriented Programming (OOP), working with classes and objects, utilizing object-oriented modeling, and building class hierarchies. It will cover the fundamental principles of OOP, such as abstraction (interfaces, abstract classes), encapsulation, inheritance, and polymorphism.
+Welcome to the C# OOP - June 2023 course repository! In this course, participants will learn the principles of Object-Oriented Programming (OOP), how to work with classes and objects, use object-oriented modeling, and build class hierarchies. The course will cover fundamental OOP principles such as abstraction (interfaces, abstract classes), encapsulation, inheritance, and polymorphism. Participants will delve into the most commonly used design patterns (creational, structural, and behavioral design patterns). SOLID principles for object-oriented software design will be introduced. Various debugging techniques will be explored, and participants will learn how to create and use decorators. The course will emphasize component testing (writing unit tests) and the concept of Test Driven Development (TDD).
 
 #### About the Course
 
-The "C# OOP" course will teach you the principles of Object-Oriented Programming (OOP), working with classes and objects, utilizing object-oriented modeling, and building class hierarchies. It will cover the fundamental principles of OOP, such as abstraction (interfaces, abstract classes), encapsulation, inheritance, and polymorphism. You will delve into the most commonly used design patterns (creational, structural, and behavioral design patterns). The course also covers the SOLID principles for object-oriented software design. Various debugging techniques will be explored, and you will learn how to create and use decorators. Emphasis will be placed on component testing (writing unit tests) and the concept of Test Driven Development (TDD).
+The "C# OOP" course will teach participants the principles of Object-Oriented Programming (OOP), how to work with classes and objects, use object-oriented modeling, and build class hierarchies. The course will cover fundamental OOP principles such as abstraction (interfaces, abstract classes), encapsulation, inheritance, and polymorphism. Participants will delve into the most commonly used design patterns (creational, structural, and behavioral design patterns). SOLID principles for object-oriented software design will be introduced. Various debugging techniques will be explored, and participants will learn how to create and use decorators. The course will emphasize component testing (writing unit tests) and the concept of Test Driven Development (TDD).
 
 #### Skills You Will Gain
 
 - Understanding the Object-Oriented Programming paradigm
 - Applying Object-Oriented Programming principles
 - Creating class hierarchies and inheritance
-- Using the Reflection API
+- Using Reflection API
 - Data encapsulation
 - Component testing (Unit Testing)
 
@@ -23,4 +23,4 @@ You can explore the course materials, code examples, and assignments in the repo
 
 ### Certificate
 
-![Certificate]([https://i.imgur.com/aa9wAhV.png](https://i.imgur.com/RdVrT6T.png)https://i.imgur.com/RdVrT6T.png)
+![Certificate](https://i.imgur.com/DtlsE1I.png)
