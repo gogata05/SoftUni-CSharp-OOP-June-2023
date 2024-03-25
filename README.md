@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/DtlsE1I.png" alt="Certificate"/> 
-
+ 
 ### 📚 SoftUni-CSharp-OOP-June-2023
 
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/4099/csharp-oop-june-2023)
